@@ -2,7 +2,6 @@
 //  PlaySoundsViewController+Audio.swift
 //  PitchPerfect
 //
-//  Created by Imane BOUAMAMA on 2021/08/20.
 //  Copyright Â© 2016 Udacity. All rights reserved.
 //
 
